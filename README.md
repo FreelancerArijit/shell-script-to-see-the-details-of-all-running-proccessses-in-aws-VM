@@ -1,0 +1,1 @@
+# shell-script-to-see-the-details-of-all-running-proccessses-in-aws-VM
